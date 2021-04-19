@@ -1,4 +1,4 @@
-# twittersentimentmk1
+# Twitter Sentiment Analysis Mark I
 This is my first version of a sentiment analysis algorithm using a twitter database and textblob.
 I have uploaded two different .ipynb files 
 
